@@ -25,7 +25,7 @@ SECRET_KEY = 'rbh8%u_$en!zodi6j_ual3azei=2(@yd1zrl7n0kz^t!xe$t2o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','django-musiclayer.herokuapp.com']
 
 DATA_UPLOAD_MAX_NUMBER_FIELDS = 10000
 # Application definition
