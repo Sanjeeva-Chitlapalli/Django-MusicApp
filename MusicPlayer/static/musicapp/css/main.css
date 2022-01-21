@@ -1,0 +1,21 @@
+.bg-light{
+    background :#dc3545!important;
+}
+.bg-primary{
+    background: rgb(0,0,0,0.7)!important;
+}
+.section-heading{
+    color:aliceblue!important;
+}
+.btn-primary {
+    color: rgb(0, 0, 0);
+    background: rgb(252, 252, 252) 85%;
+    border-color: #3b3b3b;
+}
+.btn{
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    transition-property: color, background-color, border-color, box-shadow;
+    transition-duration: 0.15s, 0.15s, 0.15s, 0.15s;
+    transition-timing-function: ease-in-out, ease-in-out, ease-in-out, ease-in-out;
+    transition-delay: 0s, 0s, 0s, 0s ;
+}
